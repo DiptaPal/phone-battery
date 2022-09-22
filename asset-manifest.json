@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/phone-battery/static/css/main.9df9b3e4.css",
-    "main.js": "/phone-battery/static/js/main.f714fd79.js",
+    "main.js": "/phone-battery/static/js/main.9acde080.js",
     "static/js/787.86aac91b.chunk.js": "/phone-battery/static/js/787.86aac91b.chunk.js",
-    "static/media/logo.svg": "/phone-battery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/phone-battery/index.html",
     "main.9df9b3e4.css.map": "/phone-battery/static/css/main.9df9b3e4.css.map",
-    "main.f714fd79.js.map": "/phone-battery/static/js/main.f714fd79.js.map",
+    "main.9acde080.js.map": "/phone-battery/static/js/main.9acde080.js.map",
     "787.86aac91b.chunk.js.map": "/phone-battery/static/js/787.86aac91b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9df9b3e4.css",
-    "static/js/main.f714fd79.js"
+    "static/js/main.9acde080.js"
   ]
 }
