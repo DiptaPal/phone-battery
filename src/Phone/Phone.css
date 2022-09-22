@@ -1,0 +1,37 @@
+.phoneContainer{
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid greenyellow;
+    border-radius: 2px;
+}
+.display{
+    background-color: gray;
+    text-align: right;
+}
+.display p{
+    margin: 0;
+    margin-right: 10px;
+    padding: 50px 0;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+.buttonContainer{
+    border-top: 5px solid greenyellow;
+    display: grid;
+    grid-template-columns:  repeat(3, 1fr);
+    grid-gap: 5px;
+}
+.btn{
+    font-size: 25px;
+    background-color: blanchedalmond;
+    padding: 30px 50px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+    color: grey;
+}
+.btn:last-child{
+    background-color: peru;
+    color: white;
+}
